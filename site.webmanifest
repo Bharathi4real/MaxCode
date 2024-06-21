@@ -1,0 +1,19 @@
+{
+  "name": "Max.code | An online code editor",
+  "short_name": "Max.code",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#02f5a8",
+  "background_color": "#7edea9",
+  "display": "standalone"
+}
